@@ -1,0 +1,600 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\ruyaagency.com\ajax\libs\jqueryui\1.12.1\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.3/min/tiny-slider.js
+File Name: C:\Downloaded Web Sites\ruyaagency.com\ajax\libs\tiny-slider\2.9.3\min\tiny-slider.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\ruyaagency.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ruyaagency.com\s\poppins\v23\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ruyaagency.com\s\poppins\v23\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ruyaagency.com\s\poppins\v23\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ruyaagency.com\s\poppins\v23\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\ruyaagency.com\s\poppins\v23\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://ruyaagency.com/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/argonfront/img/apple-icon.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\argonfront\img\apple-icon.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/argonfront/img/favicon.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\argonfront\img\favicon.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/byadmin/front.css
+File Name: C:\Downloaded Web Sites\ruyaagency.com\byadmin\front.css
+Content Type: text/css
+
+Uri: https://ruyaagency.com/custom/css/select2.min.css
+File Name: C:\Downloaded Web Sites\ruyaagency.com\custom\css\select2.min.css
+Content Type: text/css
+
+Uri: https://ruyaagency.com/custom/js/js.js
+File Name: C:\Downloaded Web Sites\ruyaagency.com\custom\js\js.js
+Content Type: application/javascript
+
+Uri: https://ruyaagency.com/custom/js/select2.js
+File Name: C:\Downloaded Web Sites\ruyaagency.com\custom\js\select2.js
+Content Type: application/javascript
+
+Uri: https://ruyaagency.com/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/images/icons/splash-1125x2436.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\images\icons\splash-1125x2436.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/images/icons/splash-1242x2208.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\images\icons\splash-1242x2208.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/images/icons/splash-1242x2688.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\images\icons\splash-1242x2688.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/images/icons/splash-1536x2048.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\images\icons\splash-1536x2048.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/images/icons/splash-1668x2224.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\images\icons\splash-1668x2224.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/images/icons/splash-1668x2388.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\images\icons\splash-1668x2388.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/images/icons/splash-2048x2732.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\images\icons\splash-2048x2732.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/images/icons/splash-750x1334.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\images\icons\splash-750x1334.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/images/icons/splash-828x1792.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\images\icons\splash-828x1792.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/luxe/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\ruyaagency.com\luxe\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://ruyaagency.com/luxe/bootstrap_customized.min.css
+File Name: C:\Downloaded Web Sites\ruyaagency.com\luxe\bootstrap_customized.min.css
+Content Type: text/css
+
+Uri: https://ruyaagency.com/luxe/cartFunctions.js
+File Name: C:\Downloaded Web Sites\ruyaagency.com\luxe\cartFunctions.js
+Content Type: application/javascript
+
+Uri: https://ruyaagency.com/luxe/img-noise.png
+File Name: C:\Downloaded Web Sites\ruyaagency.com\luxe\img-noise.png
+Content Type: image/png
+
+Uri: https://ruyaagency.com/luxe/jquery.min.js
+File Name: C:\Downloaded Web Sites\ruyaagency.com\luxe\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ruyaagency.com/luxe/LuxeTemplate.js
+File Name: C:\Downloaded Web Sites\ruyaagency.com\luxe\LuxeTemplate.js
+Content Type: application/javascript
+
+Uri: https://ruyaagency.com/luxe/main.css
+File Name: C:\Downloaded Web Sites\ruyaagency.com\luxe\main.css
+Content Type: text/css
+
+Uri: https://ruyaagency.com/luxe/order.js
+File Name: C:\Downloaded Web Sites\ruyaagency.com\luxe\order.js
+Content Type: application/javascript
+
+Uri: https://ruyaagency.com/manifest.json
+File Name: C:\Downloaded Web Sites\ruyaagency.com\manifest.json
+Content Type: application/json
+
+Uri: https://ruyaagency.com/restaurant/alhlaby
+File Name: C:\Downloaded Web Sites\ruyaagency.com\restaurant\alhlaby.html
+Content Type: text/html
+
+Uri: https://ruyaagency.com/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://ruyaagency.com/site.webmanifest
+File Name: C:\Downloaded Web Sites\ruyaagency.com\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://ruyaagency.com/uploads/restorants/0092c848-e13f-49dd-a025-f5995778a011_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\0092c848-e13f-49dd-a025-f5995778a011_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/01e6206f-c905-431a-b58b-02139620e2e0_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\01e6206f-c905-431a-b58b-02139620e2e0_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/04d83b5b-be26-495a-ab73-7b92d34bae0a_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\04d83b5b-be26-495a-ab73-7b92d34bae0a_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/08075c1e-66f2-4716-aadf-4f8d402a5ddc_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\08075c1e-66f2-4716-aadf-4f8d402a5ddc_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/0aeacb8e-a85e-4e88-ac51-ae91c7161671_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\0aeacb8e-a85e-4e88-ac51-ae91c7161671_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/0d9d6086-6635-4d65-8f01-e911d51ed24a_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\0d9d6086-6635-4d65-8f01-e911d51ed24a_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/150573e6-0a0e-4774-89b7-ea1037973bc3_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\150573e6-0a0e-4774-89b7-ea1037973bc3_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/1777f750-6cc9-4c3c-a18b-25cc7ca35ddf_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\1777f750-6cc9-4c3c-a18b-25cc7ca35ddf_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/1789f18c-e169-435a-8a0b-4fba008c7d06_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\1789f18c-e169-435a-8a0b-4fba008c7d06_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/183ddcca-1a38-469b-bdfb-854881cf4a43_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\183ddcca-1a38-469b-bdfb-854881cf4a43_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/1a41bf7e-e07f-4b7c-96bb-ad0897eeb98c_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\1a41bf7e-e07f-4b7c-96bb-ad0897eeb98c_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/1a633993-aa62-4eec-a7b3-3575c4fdfb3c_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\1a633993-aa62-4eec-a7b3-3575c4fdfb3c_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/1b94d598-b857-4ab6-b195-0f8a03c82e4d_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\1b94d598-b857-4ab6-b195-0f8a03c82e4d_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/1d98c0a5-178e-4bdc-8bb6-af650032bff0_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\1d98c0a5-178e-4bdc-8bb6-af650032bff0_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/1f9056ce-fe2f-4d2b-980b-7c1189e8efb2_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\1f9056ce-fe2f-4d2b-980b-7c1189e8efb2_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/1fb97691-9902-450a-a612-58ff11819ba9_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\1fb97691-9902-450a-a612-58ff11819ba9_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/21ea8083-4ad4-4caf-aef7-4c1523ce3582_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\21ea8083-4ad4-4caf-aef7-4c1523ce3582_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/22362d32-7801-46f2-afb5-b5ace2818f0d_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\22362d32-7801-46f2-afb5-b5ace2818f0d_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/26bbf624-a3a4-4d11-bb34-0f15df4bb028_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\26bbf624-a3a4-4d11-bb34-0f15df4bb028_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/26d051fa-b78c-4007-8345-afd514c03130_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\26d051fa-b78c-4007-8345-afd514c03130_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/28393637-8a2a-473b-9737-e254fff2548f_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\28393637-8a2a-473b-9737-e254fff2548f_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/296e1a2e-b3cf-482c-880d-0b6905f56746_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\296e1a2e-b3cf-482c-880d-0b6905f56746_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/2a945b17-1c6a-4aa9-9178-88536a203367_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\2a945b17-1c6a-4aa9-9178-88536a203367_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/2d98114e-d8b7-46e1-928f-60b742800d1b_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\2d98114e-d8b7-46e1-928f-60b742800d1b_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/2e32054f-5bd8-462d-92b8-932be687306a_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\2e32054f-5bd8-462d-92b8-932be687306a_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/2f78415d-818e-4416-9418-89acbac7d795_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\2f78415d-818e-4416-9418-89acbac7d795_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/2fba196e-3010-4afc-a8cf-e4876faead7c_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\2fba196e-3010-4afc-a8cf-e4876faead7c_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/312bc5e2-312b-45d5-ac0d-18574fc35ed9_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\312bc5e2-312b-45d5-ac0d-18574fc35ed9_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/34d230e8-c147-43bc-bf0f-fb32ce87e26e_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\34d230e8-c147-43bc-bf0f-fb32ce87e26e_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/34f0e9fd-30bc-4625-b53f-464cd2920f96_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\34f0e9fd-30bc-4625-b53f-464cd2920f96_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/3d625cee-4fd7-43e5-8e7c-32bc78853e75_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\3d625cee-4fd7-43e5-8e7c-32bc78853e75_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/44418eaf-b7f9-4615-88e0-686281db80e5_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\44418eaf-b7f9-4615-88e0-686281db80e5_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/4822b3e5-1ac0-4d14-9b7d-d0c907cea8ed_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\4822b3e5-1ac0-4d14-9b7d-d0c907cea8ed_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/49e51dc6-50ac-4a36-af5a-7f400a17de14_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\49e51dc6-50ac-4a36-af5a-7f400a17de14_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/4b810c92-ff0b-48a7-bdf5-34d6cd73d78c_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\4b810c92-ff0b-48a7-bdf5-34d6cd73d78c_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/516dbd0b-924a-40b5-bd1e-6e7e06c56218_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\516dbd0b-924a-40b5-bd1e-6e7e06c56218_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/521976aa-0267-4ca9-b701-b226261fee88_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\521976aa-0267-4ca9-b701-b226261fee88_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/588e7730-1cdb-4510-b566-8242a779abe5_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\588e7730-1cdb-4510-b566-8242a779abe5_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/5aecd9a5-7831-4775-ae35-ee84260f7e13_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\5aecd9a5-7831-4775-ae35-ee84260f7e13_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/5d777835-49fe-42fc-bf14-5a1b75b1623b_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\5d777835-49fe-42fc-bf14-5a1b75b1623b_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/5fc62a19-df8e-41c3-9d0e-d6248ff5ef79_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\5fc62a19-df8e-41c3-9d0e-d6248ff5ef79_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/61f0c6de-6d1d-4832-bfee-15232e12d52a_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\61f0c6de-6d1d-4832-bfee-15232e12d52a_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/622e8a53-7cba-4718-b1bb-b4aee9517e82_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\622e8a53-7cba-4718-b1bb-b4aee9517e82_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/645754fb-9c1b-47f5-ab01-9f6fe70e66c3_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\645754fb-9c1b-47f5-ab01-9f6fe70e66c3_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/652d672d-cdfe-4850-8dd6-df6e5c0393fd_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\652d672d-cdfe-4850-8dd6-df6e5c0393fd_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/664b86f7-213e-4bc4-bbe5-10a358a6945c_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\664b86f7-213e-4bc4-bbe5-10a358a6945c_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/673b7125-a78f-4a84-be52-ecc9b048e8eb_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\673b7125-a78f-4a84-be52-ecc9b048e8eb_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/69709ad9-34a2-46a7-a821-1e1cf4e2007f_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\69709ad9-34a2-46a7-a821-1e1cf4e2007f_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/6b3ea53e-fd91-42d2-b2f9-812d7a1cff68_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\6b3ea53e-fd91-42d2-b2f9-812d7a1cff68_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/6e36db66-ad0a-479b-8423-5a112017c97e_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\6e36db66-ad0a-479b-8423-5a112017c97e_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/74f663ee-1462-4de6-901e-93d86ad5914e_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\74f663ee-1462-4de6-901e-93d86ad5914e_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/75afa32f-d09d-49d4-ad6a-8cff00d52f15_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\75afa32f-d09d-49d4-ad6a-8cff00d52f15_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/76dd618a-7184-4acc-a10f-e5897b0a3d26_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\76dd618a-7184-4acc-a10f-e5897b0a3d26_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/7cacc597-cc23-4af7-afc5-0b1d1b7579a9_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\7cacc597-cc23-4af7-afc5-0b1d1b7579a9_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/80801427-ff71-467a-9cab-e0570af9b301_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\80801427-ff71-467a-9cab-e0570af9b301_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/86779080-feda-4a18-8d9f-26c0b35255c0_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\86779080-feda-4a18-8d9f-26c0b35255c0_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/8d4165ea-13ea-40a4-9385-67995b04974a_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\8d4165ea-13ea-40a4-9385-67995b04974a_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/9394de87-760c-4741-945d-20ff137151d0_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\9394de87-760c-4741-945d-20ff137151d0_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/961b906b-d518-47f2-b4c1-e07bb3440cec_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\961b906b-d518-47f2-b4c1-e07bb3440cec_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/991464ad-6d18-4c5a-97fe-cafd4f74f14c_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\991464ad-6d18-4c5a-97fe-cafd4f74f14c_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/99aaa494-9a92-4627-8b6a-00d6f140cd6f_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\99aaa494-9a92-4627-8b6a-00d6f140cd6f_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/9a94cad0-e7d1-4044-b8e9-11a1c5607b87_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\9a94cad0-e7d1-4044-b8e9-11a1c5607b87_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/9bc9fc43-1a23-45e3-85db-5b0483c422ce_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\9bc9fc43-1a23-45e3-85db-5b0483c422ce_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/9fe95994-f83e-460b-af66-590959ecdf63_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\9fe95994-f83e-460b-af66-590959ecdf63_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/a2936619-46ba-45eb-ac08-d2c997e0f2f9_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\a2936619-46ba-45eb-ac08-d2c997e0f2f9_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/a2ee7e37-75a4-40e5-96c4-73a2da836de4_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\a2ee7e37-75a4-40e5-96c4-73a2da836de4_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/a6c1396e-e2d7-45d7-8bc6-eff5a499913b_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\a6c1396e-e2d7-45d7-8bc6-eff5a499913b_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/a6d9e51b-d629-4584-b634-5ca8ab745a88_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\a6d9e51b-d629-4584-b634-5ca8ab745a88_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/a74f009b-0c47-4713-93b0-71c165afe4d3_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\a74f009b-0c47-4713-93b0-71c165afe4d3_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/ac5835ee-c53f-48e1-886f-6970e9a70428_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\ac5835ee-c53f-48e1-886f-6970e9a70428_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/af8c6f86-0085-4c4a-be55-000ba446d82b_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\af8c6f86-0085-4c4a-be55-000ba446d82b_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/b3bf90cd-c962-4064-82fa-0ff20885a204_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\b3bf90cd-c962-4064-82fa-0ff20885a204_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/ba9ae91b-8d31-4cbd-9469-dde8c3753aed_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\ba9ae91b-8d31-4cbd-9469-dde8c3753aed_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/bcd54224-7131-4999-a864-709b6a99e873_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\bcd54224-7131-4999-a864-709b6a99e873_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/bef90606-8e7a-4ef9-8c57-157a570bbb8a_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\bef90606-8e7a-4ef9-8c57-157a570bbb8a_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/bf7d541b-1731-4c1b-8e20-7f000cd9866a_cover.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\bf7d541b-1731-4c1b-8e20-7f000cd9866a_cover.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/c1369944-aa86-4e99-9f26-0ea3c52b02ec_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\c1369944-aa86-4e99-9f26-0ea3c52b02ec_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/c2ddc946-b179-4fef-ae1e-00c7fe1934c1_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\c2ddc946-b179-4fef-ae1e-00c7fe1934c1_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/c5004b90-b835-4e9d-bd96-38500059e50d_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\c5004b90-b835-4e9d-bd96-38500059e50d_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/c803c38f-93e3-4c54-bf03-9aa1c286c7db_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\c803c38f-93e3-4c54-bf03-9aa1c286c7db_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/c9a42cc8-fb7d-4e00-bd14-9a1fdf72fdc1_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\c9a42cc8-fb7d-4e00-bd14-9a1fdf72fdc1_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/cc97ff75-a087-4171-ae4f-588f53221ccb_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\cc97ff75-a087-4171-ae4f-588f53221ccb_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/cf887602-2a55-4523-a96f-64526cab66eb_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\cf887602-2a55-4523-a96f-64526cab66eb_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/d6d15772-904f-4c82-b180-b009588e820f_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\d6d15772-904f-4c82-b180-b009588e820f_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/d7ac945b-43a2-49ce-8a89-bfb0031b5c1b_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\d7ac945b-43a2-49ce-8a89-bfb0031b5c1b_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/dbadd579-9174-489f-b268-c83849184e43_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\dbadd579-9174-489f-b268-c83849184e43_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/dbee90ae-6f49-434b-b4f6-c46541999711_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\dbee90ae-6f49-434b-b4f6-c46541999711_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/df7d77d5-896c-4a55-a3a4-9eddaa0c1ecd_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\df7d77d5-896c-4a55-a3a4-9eddaa0c1ecd_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/df81430a-a8b0-488b-8b25-8eafae578c59_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\df81430a-a8b0-488b-8b25-8eafae578c59_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/e11ff6e2-4f9d-4eda-8c4b-703cd40917e5_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\e11ff6e2-4f9d-4eda-8c4b-703cd40917e5_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/e20ba50e-9a46-4bcc-8a6d-3d3fbfc71353_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\e20ba50e-9a46-4bcc-8a6d-3d3fbfc71353_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/e3c27687-93b5-43e9-92e8-901c6bd3d1ff_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\e3c27687-93b5-43e9-92e8-901c6bd3d1ff_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/e3f493d9-67ba-42c2-a2c1-57e17c68203a_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\e3f493d9-67ba-42c2-a2c1-57e17c68203a_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/e5b91bec-64e6-43a1-9656-e5c4363602c3_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\e5b91bec-64e6-43a1-9656-e5c4363602c3_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/e64c8898-e4be-4eef-8f79-d0d01cf58fdc_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\e64c8898-e4be-4eef-8f79-d0d01cf58fdc_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/e7504fb4-dd98-432c-8f29-a2896c7439ac_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\e7504fb4-dd98-432c-8f29-a2896c7439ac_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/e752133c-c046-4928-80df-47e6a5955bfc_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\e752133c-c046-4928-80df-47e6a5955bfc_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/e8150c14-6ea3-4809-9130-f810d275a26a_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\e8150c14-6ea3-4809-9130-f810d275a26a_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/e8a39e5f-e1dd-43fb-823e-113f58835968_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\e8a39e5f-e1dd-43fb-823e-113f58835968_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/ed095977-a3a4-429f-b451-9eeece130fc8_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\ed095977-a3a4-429f-b451-9eeece130fc8_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/ef837dca-c3ba-4c34-9fb8-3f9954fbe9e0_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\ef837dca-c3ba-4c34-9fb8-3f9954fbe9e0_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/f12045bd-8a57-40dc-8b73-4afd7b876c1b_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\f12045bd-8a57-40dc-8b73-4afd7b876c1b_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/f2153649-0a36-42f4-a6d7-7c984a30c675_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\f2153649-0a36-42f4-a6d7-7c984a30c675_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/f2445526-7d28-4496-9223-8b4461b16dbb_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\f2445526-7d28-4496-9223-8b4461b16dbb_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/f275c236-3b0d-42dc-835f-f4c7851838a5_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\f275c236-3b0d-42dc-835f-f4c7851838a5_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/fad0101d-725a-4f8d-9ba6-cd610bdb467d_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\fad0101d-725a-4f8d-9ba6-cd610bdb467d_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/ff768b7e-1d5d-4760-8138-8bf51b022ff4_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\ff768b7e-1d5d-4760-8138-8bf51b022ff4_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/uploads/restorants/ff83c5b2-c63e-418c-b5db-e2d7972b9fee_large.jpg
+File Name: C:\Downloaded Web Sites\ruyaagency.com\uploads\restorants\ff83c5b2-c63e-418c-b5db-e2d7972b9fee_large.jpg
+Content Type: image/jpeg
+
+Uri: https://ruyaagency.com/vendor/axios/axios.min.js
+File Name: C:\Downloaded Web Sites\ruyaagency.com\vendor\axios\axios.min.js
+Content Type: application/javascript
+
+Uri: https://ruyaagency.com/vendor/mckenziearts/laravel-notify/dist/notify.css
+File Name: C:\Downloaded Web Sites\ruyaagency.com\vendor\mckenziearts\laravel-notify\dist\notify.css
+Content Type: text/css
+
+Uri: https://ruyaagency.com/vendor/select2/select2.min.js
+File Name: C:\Downloaded Web Sites\ruyaagency.com\vendor\select2\select2.min.js
+Content Type: application/javascript
+
+Uri: https://ruyaagency.com/vendor/vue/vue.js
+File Name: C:\Downloaded Web Sites\ruyaagency.com\vendor\vue\vue.js
+Content Type: application/javascript
+

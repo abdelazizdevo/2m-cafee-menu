@@ -1,0 +1,1798 @@
+﻿<!DOCTYPE html>
+<html lang="ar">
+   <!-- head -->
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="">
+      <meta name="csrf-token" content="iDADFtzbKE0arzbUxXZDmteXLXR7VLgWPsnj21HV">
+      <title>2M</title>
+      <meta property="og:image" content="/uploads/restorants/961b906b-d518-47f2-b4c1-e07bb3440cec_large.jpg">
+      <meta property="og:image:type" content="image/png">
+      <meta property="og:image:width" content="590">
+      <meta property="og:image:height" content="400">
+      <meta property="og:title" name="og:title" content="2M">
+      <meta name="msapplication-TileColor" content="#da532c">
+      <meta name="theme-color" content="#ffffff">
+      <link rel="icon" type="image/png" href="../argonfront/img/favicon.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="../argonfront/img/apple-icon.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+      <link rel="manifest" href="../site.webmanifest">
+      <link rel="mask-icon" href="../safari-pinned-tab.svg" color="#5bbad5">
+      <!-- Web Application Manifest -->
+      <link rel="manifest" href="../manifest.json">
+      <!-- Chrome for Android theme color -->
+      <meta name="theme-color" content="#000000">
+      <!-- Add to homescreen for Chrome on Android -->
+      <meta name="mobile-web-app-capable" content="yes">
+      <meta name="application-name" content="Ruya Menu">
+      <link rel="icon" sizes="256x256" href="android-chrome-256x256.png">
+      <!-- Add to homescreen for Safari on iOS -->
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="apple-mobile-web-app-status-bar-style" content="black">
+      <meta name="apple-mobile-web-app-title" content="Ruya Menu">
+      <link rel="apple-touch-icon" href="android-chrome-256x256.png">
+      <link href="../images/icons/splash-750x1334.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+      <link href="../images/icons/splash-1242x2208.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image">
+      <link href="../images/icons/splash-1125x2436.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image">
+      <link href="../images/icons/splash-828x1792.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+      <link href="../images/icons/splash-1242x2688.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image">
+      <link href="../images/icons/splash-1536x2048.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+      <link href="../images/icons/splash-1668x2224.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+      <link href="../images/icons/splash-1668x2388.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+      <link href="../images/icons/splash-2048x2732.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image">
+      <!-- Tile for Win8 -->
+      <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="msapplication-TileImage" content="android-chrome-256x256.png">
+      <script type="text/javascript">
+         // Initialize the service worker
+         if ('serviceWorker' in navigator) {
+             navigator.serviceWorker.register('/serviceworker.js', {
+                 scope: '.'
+             }).then(function (registration) {
+                 // Registration was successful
+                 
+             }, function (err) {
+                 // registration failed :(
+                 
+             });
+         }
+      </script>    
+      <link rel="stylesheet" type="text/css" href="../vendor/mckenziearts/laravel-notify/dist/notify.css">
+      <link rel="stylesheet" href="../css?family=Poppins:300,400,500,600,700&display=swap">
+      <link rel="stylesheet" href="../custom/css/select2.min.css">
+      <link rel="stylesheet" href="../luxe/bootstrap_customized.min.css">
+      <link rel="stylesheet" href="../luxe/main.css">
+      <link rel="stylesheet" href="../byadmin/front.css">
+      <style>.modal-backdrop,#mobile-menu:after {background-image:url( "../luxe/img-noise.png" )}</style>
+      <script src="../vendor/vue/vue.js"></script>
+      <script src="../vendor/axios/axios.min.js"></script>
+   </head>
+   <body data-spy="scroll" data-target="#secondary_nav" data-offset="75">
+      <div id='wrapper'>
+         <div class="w-100 top-bar sticky_horizontal success ">
+            <div class="d-flex align-items-center justify-content-center">
+               مفتوح حتى الجمعة ٠٥:٠٠ hrs. &nbsp;
+               <a data-toggle="modal" data-target="#schedule-week" class="">
+                  <span class="d-flex justify-content-center align-items-center">
+                     عرض مواعيد العمل &nbsp;
+                     <svg width="9" fill="green" viewbox="-0.0136718 -11.4297 7.02733 4.11522" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M3.28-7.43c.14.14.29.14.43 0l3.17-3.23c.16-.15.16-.31 0-.47l-.2-.2c-.15-.15-.31-.15-.47 0L3.47-8.55 .73-11.34c-.17-.17-.32-.17-.47 0l-.2.19c-.17.16-.17.31 0 .46Z"></path>
+                     </svg>
+                  </span>
+               </a>
+            </div>
+         </div>
+         <!-- mobile-menu -->
+         <section id='mobile-menu'>
+            <a class="close-mobile-menu" href="javascript:;" onclick="openNav()">
+               <svg width="24" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M16.192 6.34l-4.243 4.24 -4.242-4.25 -1.42 1.41 4.242 4.242 -4.242 4.24 1.41 1.41 4.242-4.25 4.243 4.24 1.41-1.42 -4.25-4.25 4.24-4.242Z"></path>
+               </svg>
+            </a>
+            <div class='content'>
+               <div class='info' id="order-summary">
+                  <div class='box-info bg-white'>
+                     <div class="box-order">
+                        <div class='head align-center'>
+                           <h6>ملخص الطلب
+                              <br><small>أقل طلب مسموح  ج.م0.00</small>
+                           </h6>
+                        </div>
+                     </div>
+                     <div class='content' id="cartListMobile">
+                        <ul class="clearfix mb-0 w-100">
+                           <li v-for="item in items" class="items col-12 clearfix">
+                              <div class=" clearfix" v-cloak="">
+                                 <div class="d-flex align-items-center justify-content-between">
+                                    <div class="d-flex align-items-center">
+                                       <button type="button" v-on:click="remove(item.id)" :value="item.id" class="btn btn-outline-primary btn-icon btn-sm page-link btn-cart-radius mr-2">
+                                          <span class="btn-inner--icon btn-cart-icon">
+                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" fill="#777" version="1.1" id="Layer_1" x="0px" y="0px" viewbox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                                                <g>
+                                                   <path d="M256,90c44.3,0,86,17.3,117.4,48.6C404.7,170,422,211.7,422,256s-17.3,86-48.6,117.4C342,404.7,300.3,422,256,422   s-86-17.3-117.4-48.6C107.3,342,90,300.3,90,256s17.3-86,48.6-117.4C170,107.3,211.7,90,256,90 M256,48C141.1,48,48,141.1,48,256   s93.1,208,208,208s208-93.1,208-208S370.9,48,256,48L256,48z"></path>
+                                                </g>
+                                                <polygon points="360,330.9 330.9,360 256,285.1 181.1,360 152,330.9 226.9,256 152,181.1 181.1,152 256,226.9 330.9,152 360,181.1   285.1,256 "></polygon>
+                                             </svg>
+                                          </span>
+                                       </button>
+                                       <a v-cloak="" href="javascript:;" v-on:click="remove(item.id)" :value="item.id" class="product-item_title text-truncate mb-0"><span v-cloak="" class="product-item_quantity">{{ item.quantity }} x </span>{{ item.name }}</a>
+                                    </div>
+                                    <p class="product-item_price mb-0">{{ item.attributes.friendly_price }}</p>
+                                 </div>
+                              </div>
+                           </li>
+                        </ul>
+                     </div>
+                     <div v-cloak="" id="totalPricesMobile">
+                        <div v-cloak="" v-if="totalPrice==0" class="empty-cart">
+                           <p><small>أضف شيئا إلي طلبك!</small></p>
+                        </div>
+                        <div v-cloak="" v-if="totalPrice" class='actionsCart'>
+                           <a href="/cart-checkout" class='button full-button'>
+                              <span class="d-flex align-items-center">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="16" fill="#FFF" id="BeBold" viewbox="0 0 14 14">
+                                    <path d="M7.179,11.128,10.26,8.083,1.066,8.041A1.07,1.07,0,0,1,0,6.965H0A1.07,1.07,0,0,1,1.076,5.9l9.192.041L7.228,2.865a1.07,1.07,0,0,1,.006-1.514h0a1.072,1.072,0,0,1,1.515.007l5,5.049a.879.879,0,0,1-.007,1.243l-5.053,5a1.071,1.071,0,0,1-1.514-.007h0A1.071,1.071,0,0,1,7.179,11.128Z"></path>
+                                 </svg>
+                                 &nbsp; الدفع
+                              </span>
+                              <span class="ammount">{{ totalPriceFormat }}</span>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <nav>
+                  <!-- Buttons -->
+                  <a href="https://ruyaagency.com/register/visit/26" class="d-flex btn_hero">تسجيل الزيارة</a>
+                  <a href="tel:+201006095033" class='d-flex btn_hero'>اتصل</a>
+                  <!--- End buttons -->
+                  <!--- Languaages -->
+                  <!-- End Languages -->
+               </nav>
+            </div>
+         </section>
+         <div class="modal fade bd-example-modal-sm" id="productModal" z-index="9999" tabindex="-1" role="dialog" aria-labelledby="modal-form" aria-hidden="true">
+            <div class="modal-dialog modal-sm modal-dialog-centered " role="document" id="modalDialogItem">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h6 class="mb-0">Add to Cart</h6>
+                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                     <span aria-hidden="true">×</span>
+                     </button>
+                  </div>
+                  <div class="modal-body p-0">
+                     <div class="row no-gutters m-0 align-items-center">
+                        <div class="col-12">
+                           <div class="modalCover">
+                              <figure id="modalImgPart">
+                                 <img id="modalImg" src="" width="100%">
+                              </figure>
+                           </div>
+                        </div>
+                        <div class="col-12" id="modalItemDetailsPart">
+                           <div class="pt-5 pb-3 px-6">
+                              <h4 id="modalTitle" class="modal-title mb-2" id="modal-title-new-item"></h4>
+                              <p id="modalDescription" class="mb-6"></p>
+                              <input id="modalID" type="hidden">
+                              <div class="price-modal">
+                              </div>
+                              <div id="variants-area">
+                                 <label class="form-control-label mb-3">حدد خياراتك</label>
+                                 <div id="variants-area-inside">
+                                 </div>
+                              </div>
+                              <div id="exrtas-area">
+                                 <h5 class="form-control-label w-100">الإضافات</h5>
+                                 <div id="exrtas-area-inside">
+                                 </div>
+                              </div>
+                              <!-- Inform if closed -->
+                              <!-- End inform -->
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="modal-footer">
+                     <div class="footer-area">
+                        <div class="d-flex product-price justify-content-between align-items-start mb-4">
+                           <div id="price-area" class="py-2">
+                              <h6>السعر</h6>
+                              <h3 id="modalPrice" class="new-price mt-2 mb-0"></h3>
+                           </div>
+                           <div class="quantity-area py-2">
+                              <h6>الكمية</h6>
+                              <div class="numbers-row mt-2">
+                                 <input type="number" value="1" id="quantity" class="qty2 form-control" name="quantity" placeholder="1" min="1" step="1" autofocus="" required="">
+                              </div>
+                           </div>
+                        </div>
+                        <div class="quantity-btn btn-block">
+                           <div id="addToCart1">
+                              <button class="btn btn-primary btn-block" v-on:click='addToCartAct'>Add to Cart</button>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- Search modal -->
+         <div class="modal fade bd-example-modal-sm" id="searchModal" z-index="9999" role="dialog" aria-labelledby="modal-form" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog " role="document" id="modalDialogItem">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h6 class="mb-0">بحث</h6>
+                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                     <span aria-hidden="true">×</span>
+                     </button>
+                  </div>
+                  <div class="modal-body p-0">
+                     <div class="row no-gutters m-0 align-items-center">
+                        <div class="itemsSearchHolder">
+                           <select class="itemsSearch " multiple="multiple" id="itemsSearch" placeholder="Find what you are looking for..." style="width:100%">
+                              <optgroup label="اللحوم">
+                                 <option value="478">ريش</option>
+                                 <option value="480">كباب</option>
+                                 <option value="484">كفته</option>
+                                 <option value="487">مشكل</option>
+                                 <option value="489">طرب</option>
+                                 <option value="491">نيفا</option>
+                                 <option value="494">سجق</option>
+                                 <option value="498">كباب حلة</option>
+                                 <option value="500">لحم مسلوق</option>
+                                 <option value="501">مندي لحم</option>
+                              </optgroup>
+                              <optgroup label="الكبدة">
+                                 <option value="512">كبدة بالردة</option>
+                                 <option value="514">مخ بانيه</option>
+                                 <option value="504">كبدة جملي</option>
+                                 <option value="507">كبدة ضاني</option>
+                                 <option value="509">كبدة عجالي</option>
+                              </optgroup>
+                              <optgroup label="الطيور">
+                                 <option value="517">فرخة فحم</option>
+                                 <option value="520">شيش طاووق</option>
+                                 <option value="523">بانيه مقلي</option>
+                                 <option value="526">بانيه مشوي</option>
+                                 <option value="528">فرد حمام مشوي</option>
+                                 <option value="518">فرخه شيش</option>
+                              </optgroup>
+                              <optgroup label="السندوتشات">
+                                 <option value="531">سندوتش كباب</option>
+                                 <option value="550">سندوتش حواوشي لحمه بالموتزريلا</option>
+                                 <option value="553">سندوتش حواوشي ورش</option>
+                                 <option value="554">سندوتش حواوشي  بالسجق</option>
+                                 <option value="533">سندوتش كفتة</option>
+                                 <option value="536">سندوتش طرب</option>
+                                 <option value="537">سندوتش شيش طاووق</option>
+                                 <option value="538">سندوتش كبدة ضاني</option>
+                                 <option value="539">سندوتش كبدة جملي</option>
+                                 <option value="544">سندوتش كبدة عجالي</option>
+                                 <option value="546">سندوتش كبدة بالرده</option>
+                                 <option value="547">سندوتش مخ بانيه</option>
+                                 <option value="548">سندوتش حواوشي لحمه</option>
+                              </optgroup>
+                              <optgroup label="الوجبات">
+                                 <option value="558">وجبه التوفير</option>
+                                 <option value="559">وجبه 2M</option>
+                                 <option value="560">وجبه مكس</option>
+                                 <option value="561">وجبه شيش طاووق</option>
+                                 <option value="562">وجبه كفته 2M</option>
+                                 <option value="563">وجبه بانيه</option>
+                                 <option value="564">وجبه لحم مسلوق</option>
+                                 <option value="565">وجبه لحم محمر</option>
+                                 <option value="566">وجبه مندي</option>
+                              </optgroup>
+                              <optgroup label="الصواني">
+                                 <option value="567">صينية الاكيلة</option>
+                                 <option value="568">صينية لمة العيلة</option>
+                                 <option value="569">صينية الوحوش</option>
+                                 <option value="570">صينية المزاجنجية</option>
+                              </optgroup>
+                              <optgroup label="الضيافات">
+                                 <option value="573">ضيافة فردين</option>
+                                 <option value="575">ضيافة 4 افراد</option>
+                                 <option value="577">ضيافة 6 افراد</option>
+                              </optgroup>
+                              <optgroup label="الطواجن">
+                                 <option value="578">طاجن خضار بالحمه</option>
+                                 <option value="580">طاجن لحمه بالبصل</option>
+                                 <option value="581">طاجن بطاطس باللحمه</option>
+                                 <option value="582">طاجن عكاوي</option>
+                                 <option value="583">طاجن مخاصي</option>
+                                 <option value="584">طاجن ورق عنب بي الكوارع</option>
+                                 <option value="585">طاجن فته كوارع</option>
+                                 <option value="586">طاجن بطاطس باللحم صوص بني</option>
+                                 <option value="587">طاجن ورق عنب ستيك</option>
+                                 <option value="588">طاجن قنبله</option>
+                                 <option value="589">طجن سجق بلدي</option>
+                                 <option value="590">طاجن ديناميت</option>
+                                 <option value="591">مبكبكه لحم</option>
+                                 <option value="592">ورق سجق</option>
+                                 <option value="593">حمام بالكوارع</option>
+                              </optgroup>
+                              <optgroup label="مكرونة">
+                                 <option value="595">مكرونة كريمه فراخ</option>
+                                 <option value="596">مكرونة كريمه لحم</option>
+                                 <option value="597">مكرونه ميكس ( فراخ + لحم )</option>
+                                 <option value="599">مكورنه سباجتي صوص احمر</option>
+                                 <option value="600">مكرونه مبكبكه</option>
+                                 <option value="601">مكرونه بالسجق</option>
+                              </optgroup>
+                              <optgroup label="الشوربة">
+                                 <option value="602">شوربه كوراع</option>
+                                 <option value="609">شوربه عكاوي</option>
+                                 <option value="610">شوربه لحمه</option>
+                                 <option value="611">شوربه لسان</option>
+                                 <option value="612">شوربه ديناميت</option>
+                                 <option value="613">شوربه ميكس</option>
+                              </optgroup>
+                              <optgroup label="الاضافات">
+                                 <option value="614">ممبار محشي</option>
+                                 <option value="615">محاشي مشكل</option>
+                                 <option value="616">ورق عنب</option>
+                                 <option value="617">جلاش باللحمه</option>
+                                 <option value="618">سمبوسه ( لحمه - جبنه )</option>
+                                 <option value="619">ملوخية</option>
+                                 <option value="620">خضار فريش</option>
+                                 <option value="621">بطاطس</option>
+                                 <option value="622">ارز ابيض</option>
+                                 <option value="623">ارز شعريه</option>
+                                 <option value="624">ارز بسمتي</option>
+                                 <option value="625">ارز بالخلطه</option>
+                                 <option value="626">فتة</option>
+                                 <option value="627">ورق باللحمه</option>
+                              </optgroup>
+                              <optgroup label="موزه ضاني">
+                                 <option value="628">موزة سادة</option>
+                                 <option value="629">موزة فته</option>
+                                 <option value="630">موزة ابو علي</option>
+                                 <option value="631">جوهرة 2M</option>
+                              </optgroup>
+                              <optgroup label="السلطات">
+                                 <option value="632">باذنجان مخلل</option>
+                                 <option value="633">بابا غنوج</option>
+                                 <option value="634">كول سلو</option>
+                              </optgroup>
+                              <optgroup label="المشروبات">
+                                 <option value="635">فيروز</option>
+                                 <option value="636">بريل</option>
+                                 <option value="637">بيبسي</option>
+                                 <option value="638">كولا</option>
+                                 <option value="639">سفن</option>
+                                 <option value="640">شاي</option>
+                                 <option value="641">قهوة</option>
+                                 <option value="642">مياه معدنيه صغيره</option>
+                              </optgroup>
+                           </select>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade" id="modal-restaurant-info" tabindex="-1" role="dialog" aria-labelledby="modal-form" aria-hidden="true">
+            <div class="modal-dialog modal- modal-dialog-centered modal-lg" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h5 id="modalRestaurantTitle" class="modal-title notranslate">2M</h5>
+                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                     <span aria-hidden="true">×</span>
+                     </button>
+                  </div>
+                  <div class="modal-body p-0">
+                     <div class="card">
+                        <div class="card-header bg-white text-center">
+                           <img class="rounded img-center" src="../uploads/restorants/961b906b-d518-47f2-b4c1-e07bb3440cec_thumbnail.jpg" width="90px" height="90px">
+                           <h4 class="heading mt-4">2M &nbsp;</h4>
+                           <p class="description"></p>
+                        </div>
+                        <div class="card-body">
+                           <div class="nav-wrapper">
+                              <ul class="nav nav-pills nav-fill flex-column flex-md-row" id="tabs-icons-text" role="tablist">
+                                 <li class="nav-item">
+                                    <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-1-tab" data-toggle="tab" href="#tabs-icons-text-1" role="tab" aria-controls="tabs-icons-text-1" aria-selected="true">حول</a>
+                                 </li>
+                                 <li class="nav-item">
+                                    <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-2-tab" data-toggle="tab" href="#tabs-icons-text-2" role="tab" aria-controls="tabs-icons-text-2" aria-selected="false">المراجعات</a>
+                                 </li>
+                              </ul>
+                           </div>
+                           <div class="tab-content" id="myTabContent">
+                              <div class="tab-pane fade show active" id="tabs-icons-text-1" role="tabpanel" aria-labelledby="tabs-icons-text-1-tab">
+                                 <div class="row">
+                                    <div class="col-md-6">
+                                       <h6 class="heading-small">رقم الموبايل</h6>
+                                       <p class="heading-small text-muted">+1006095033</p>
+                                       <br>
+                                       <h6 class="heading-small">العنوان</h6>
+                                       <p class="heading-small text-muted">منيا القمح الشرقية</p>
+                                    </div>
+                                    <div class="col-md-6">
+                                       <div class="form-group">
+                                          <div id="map3" class="form-control form-control-alternative"></div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="tab-pane fade" id="tabs-icons-text-2" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                                 <p>لا يوجد مراجعات حالية
+                                 <p>
+                                 </p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- Hours week modal -->
+         <div class="modal fade bd-example-modal-sm" id="schedule-week" z-index="9999" tabindex="-1" role="dialog" aria-labelledby="modal-form" aria-hidden="true">
+            <div class="modal-dialog modal-sm modal-dialog-centered " role="document" id="modalDialogItem">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <h6 class="mb-0">مواعيد العمل</h6>
+                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                     <span aria-hidden="true">×</span>
+                     </button>
+                  </div>
+                  <div class="modal-body p-0">
+                     <div class='schedule'>
+                        <ol class='items w-100'>
+                           <li class="">
+                              <div class='day'>الإثنين </div>
+                              <div class='hours'>09:00 - 05:00 </div>
+                           </li>
+                           <li class="">
+                              <div class='day'>الثلاثاء </div>
+                              <div class='hours'>09:00 - 05:00 </div>
+                           </li>
+                           <li class="">
+                              <div class='day'>الأربعاء </div>
+                              <div class='hours'>09:00 - 05:00 </div>
+                           </li>
+                           <li class=" today ">
+                              <div class='day d-flex'>
+                                 الخميس
+                                 <span class='tag d-flex justify-content-center align-items-center'>
+                                    <svg xmlns="http://www.w3.org/2000/svg" fill="#00bc8b" width="8" id="BeBold" viewbox="0 0 14 14">
+                                       <path id="Arrow-right-3" class="cls-1" d="M11.612,8.385l-5,5.2A1.608,1.608,0,0,1,3.92,12.389V1.611A1.608,1.608,0,0,1,6.607.419l5.005,5.2A1.87,1.87,0,0,1,11.612,8.385Z"></path>
+                                    </svg>
+                                 </span>
+                              </div>
+                              <div class='hours'>09:00 - 05:00 </div>
+                           </li>
+                           <li class="">
+                              <div class='day'>الجمعة </div>
+                              <div class='hours'>09:00 - 05:00 </div>
+                           </li>
+                           <li class="">
+                              <div class='day'>السبت </div>
+                              <div class='hours'>09:00 - 05:00 </div>
+                           </li>
+                           <li class="">
+                              <div class='day'>الأحد </div>
+                              <div class='hours'>09:00 - 05:00 </div>
+                           </li>
+                        </ol>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="modal fade bd-example-modal-sm" id="modal-form" z-index="9999" tabindex="-1" role="dialog" aria-labelledby="modal-form" aria-hidden="true">
+            <div class="modal-dialog modal-sm modal-dialog-centered " role="document">
+               <form role="form" method="post" action="https://ruyaagency.com/call/waiter">
+                  <input type="hidden" name="_token" value="iDADFtzbKE0arzbUxXZDmteXLXR7VLgWPsnj21HV" autocomplete="off">            
+                  <div class="modal-content">
+                     <div class="modal-header">
+                        <h6 class="mb-0">حجز طاولة</h6>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                        </button>
+                     </div>
+                     <div class="modal-body text-center py-4">
+                        <div id="form-group-table_id" class="form-group    col-12 ">
+                           <label class="form-control-label">الطاولة</label><br>
+                           <select class="form-control form-control-alternative    noselecttwo " name="table_id" id="table_id">
+                              <option disabled="" selected="" value=""> اختر الطاولة </option>
+                           </select>
+                        </div>
+                     </div>
+                     <div class="modal-footer">
+                        <div class="footer-area">
+                           <div class="quantity-btn btn-block">
+                              <div>
+                                 <button class="btn btn-block justify-content-center" type="submit">اتصل الآن</button>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </form>
+            </div>
+         </div>
+         <!-- place-header -->
+         <section class='section section-place-header'>
+            <div class='packer h-100 d-flex flex-column justify-content-end'>
+               <!--- Languaages -->
+               <!-- End Languages -->
+               <div class='package d-flex justify-content-between align-items-end hero-header'>
+                  <div class='text-left text-center-sm header-align'>
+                     <picture class='avatar'><img loading="lazy" src='https://scontent.fcai20-6.fna.fbcdn.net/v/t39.30808-1/538357219_122096772368997148_8883992700950261467_n.jpg?stp=dst-jpg_p200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=f907e8&_nc_ohc=1WNoXgOsGigQ7kNvwGpTikZ&_nc_oc=AdldD3-S5HQ_EKT4RhvLLQNR7U3-H8HKjMSaaKsScQgdSowZ2I4aWKKjzYS7K1n_YMo&_nc_zt=24&_nc_ht=scontent.fcai20-6.fna&_nc_gid=hCAwr5nYzulxaUCtee8e0g&oh=00_AfUQyD-1VQRRwjkH9cCMzY0IHz99I2qdLyho38BgSwWj2g&oe=68B61A0D'></picture>
+                     <div class='info '>
+                        <h1 class="text-white">2M</h1>
+                        <p class="opacity-9 text-white title_small mb-0"></p>
+                        <p class="text-white mt-0">
+                           <a href="https://maps.google.com/maps?q=منيا القمح الشرقية" class="text-white header-link" target="_blank" rel="noopener noreferrer">احصل على الاتجاهات</a>
+                        </p>
+                     </div>
+                  </div>
+                  <div class="header-buttons">
+                     <!-- Buttons -->
+                     <a href="tel:+201006095033" class="d-flex btn_hero" title="اتصل بنا">
+                        <svg fill="#25D366" width="16" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                           <path d="M17.707 12.293c-.4-.391-1.03-.391-1.42 0l-1.6 1.59c-.74-.22-2.12-.72-3-1.6 
+                              -.88-.88-1.38-2.253-1.6-3l1.59-1.6c.391-.391.391-1.03 0-1.42l-4-4c-.391-.4-1.03-.4-1.42-.001L3.53 
+                              4.974c-.38.38-.6.9-.59 1.43.02 1.42.4 6.37 4.298 10.26 3.89 3.89 8.84 4.27 10.26 
+                              4.29.52 0 1.02-.21 1.4-.59l2.71-2.72c.39-.4.39-1.03 0-1.42l-4-4.01Zm-.13 
+                              6.71c-1.25-.03-5.52-.36-8.88-3.72C5.32 11.913 5 7.632 4.977 
+                              6.4l2-2.01 2.58 2.58-1.3 1.29c-.24.23-.35.58-.28.91.02.11.61 2.84 2.27 
+                              4.5 1.66 1.66 4.38 2.247 4.5 2.27.33.07.67-.04.91-.28l1.29-1.3 
+                              2.58 2.58-2.01 2Z"></path>
+                        </svg>
+                        &nbsp;اتصال
+                     </a>
+                     <!--- End buttons -->
+                  </div>
+               </div>
+            </div>
+            <picture data-background="true">
+               <source srcset="https://www.flavourofitaly.net/blog/wp-content/uploads/2016/06/cafee.jpg" media="(min-width: 569px)">
+               <img class="grayscale-05" loading="lazy" src='https://www.flavourofitaly.net/blog/wp-content/uploads/2016/06/cafee.jpg'>        
+            </picture>
+         </section>
+         <!-- section-place-content -->
+         <section class="section section-place-content">
+            <div class="bg-white nav-menu sticky_horizontal" style="">
+               <div class="packer">
+                  <div class="package">
+                     <nav id="place-menu" class="flex content-tab expanded">
+                        <div class="item">
+                           <a class="" href="#subsection-96">مشروبات ساخنه</a>
+                        </div>
+                        <div class="item">
+                           <a class="" href="#subsection-97">دكن القهوه</a>
+                        </div>
+                        <div class="item">
+                           <a class="" href="#subsection-98">دكن الاسبريسو</a>
+                        </div>
+                        <div class="item">
+                           <a class="" href="#subsection-99">عصائر فريش</a>
+                        </div>
+                        <div class="item">
+                           <a class="" href="#subsection-100">ميلك تشيك</a>
+                        </div>
+                        <div class="item">
+                           <a class="" href="#subsection-101">الاسموزي</a>
+                        </div>
+                        <div class="item">
+                           <a class="" href="#subsection-102">ايس فرابتشينو</a>
+                        </div>
+                        <div class="item">
+                           <a class="" href="#subsection-103">ميكس صودا</a>
+                        </div>
+                        <div class="item">
+                           <a class="" href="#subsection-104">كوكتيل فريش</a>
+                        </div>
+                        <div class="item">
+                           <a class="" href="#subsection-105">ايس كريم</a>
+                        </div>
+                        <div class="item">
+                           <a class="" href="#subsection-106">الوافل</a>
+                        </div>
+                        <div class="item">
+                           <a class="" href="#subsection-107">سوفت درينك</a>
+                        </div>
+                        <div class="item">
+                           <a class="" href="#subsection-108">ديزرت</a>
+                        </div>
+                     </nav>
+                  </div>
+               </div>
+            </div>
+            <div class="packer">
+               <div class="package">
+                  <div class="content">
+                     <div class="row">
+                        <div class="col-xl-9">
+                           <!-- tab menu -->
+                           <div class="holder-left content-tab expanded">
+                              <div class="content-center">
+                                 <div id="subsection-96" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">مشروبات ساخنه</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">شاي</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م15.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">شاي اخضر</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م15.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">شاي نكهات</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م20.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ليمون</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م20.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">نعناع</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م20.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ينسون</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م20.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سحلب ساده</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م30.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سحلب مكسرات</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سحلب فواكه</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سحلب نوتيلا</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">هوت سيدر</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">هوت شوكليت</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">هوت اوريو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">كوكتيل اعشاب</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م25.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                                 <div id="subsection-97" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">دكن القهوه</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">قهوه تركي</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م25.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">قهوه تركي دوبل</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">قهوه فرنساوي</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م30.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">قهوه فرنساوي دوبل</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">قهوه بندق</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">قهوه نكهات</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                                 <div id="subsection-98" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">دكن الاسبريسو</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سبريسو سنجل</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م30.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سبريسو دوبل</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سبريسو حليب</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">كابتشينو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">موكا وايت</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">موكا بلاك</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سبانش لاتيه</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م50.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">نسكافيه كلاسيك</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م25.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">نسكافيه حليب</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">كون بانا</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سيشيال كون بانا</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م50.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                                 <div id="subsection-99" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">عصائر فريش</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">مانجو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">فراوله</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">جوافه</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">برتقال</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">موز حليب</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ذبادي ساده</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م30.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ذبادي فواكه</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ليمون نعناع</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ليمون</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">بطيخ</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">افوكادو مكسرات</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م55.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سوبر افاكادو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م90.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">بلح بلبن</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                                 <div id="subsection-100" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">ميلك تشيك</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ميلك تشيك فانيليا</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ميلك تشيك شوكليت</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ميلك تشيك مانجو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ميلك تشيك فراوله</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ميلك تشيك لوتس</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ميلك تشيك كراميل</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ميلك تشيك بلوبيري</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ميلك تشيك اوريو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ميلك تشيك اسم المكان 502M</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م50.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                                 <div id="subsection-101" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">الاسموزي</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سموزي مانجو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سموزي فراوله</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سموزي ليمون</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سموزي ليمون نعناع</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سموزي بلوبيري</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سموزي خوخ</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سموزي ميكس بيري</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سموزي بطيخ</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                                 <div id="subsection-102" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">ايس فرابتشينو</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس كوفي</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس لاتيه</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس موكا وايت</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس موكا بلاك</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس كراميل ميكاتو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس اسبانش لاتيه</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">فرابتشينو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">فرابتشينو فانيليا</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">فرابتشينو شوكليت</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">فرابتشينو كراميل</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">فرابتشينو لوتس</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م50.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                                 <div id="subsection-103" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">ميكس صودا</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">موهيتو كلاسيك</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م35.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">موهيتو ليمون نعناع</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">موهيتو فراوله</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">موهيتو باشون</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">موهيتو بلو باشون</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">بلو موهيتو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">صن شاين</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م40.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">موهيتو فليفر</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م50.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                                 <div id="subsection-104" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">كوكتيل فريش</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">فلوريدا</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">خلفان</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م45.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">اسبيشيال تو ام</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م55.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">تو ام كوكتيل</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م65.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                                 <div id="subsection-105" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">ايس كريم</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس فانيليا</h6>
+                                             <div class="extras">
+                                                <div class="price"> 1بوله15 2بوله25 3بوله35 ج.م </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس شوكليت</h6>
+                                             <div class="extras">
+                                                <div class="price"> 1بوله15 2بوله25 3بوله35 ج.م </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس مانجو</h6>
+                                             <div class="extras">
+                                                <div class="price"> 1بوله15 2بوله25 3بوله35 ج.م </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس فراوله</h6>
+                                             <div class="extras">
+                                                <div class="price"> 1بوله15 2بوله25 3بوله35 ج.م </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس بلوبيري</h6>
+                                             <div class="extras">
+                                                <div class="price"> 1بوله15 2بوله25 3بوله35 ج.م </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس لوتس</h6>
+                                             <div class="extras">
+                                                <div class="price"> 1بوله15 2بوله25 3بوله35 ج.م </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس كراميل</h6>
+                                             <div class="extras">
+                                                <div class="price" style="
+                                                   text-align: right;
+                                                   "> 1بوله15 2بوله25 3بوله35 ج.م </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ايس اوريو</h6>
+                                             <div class="extras">
+                                                <div class="price"> 1بوله15 2بوله25 3بوله35 ج.م </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                                 <div id="subsection-106" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">الوافل</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">وافل نوتيلا</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م55.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">وافل شوكليت</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م55.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">وافل فواكه</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م70.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">وافل باور</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م75.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">وافل لوتس</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م60.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">وافل ميكس</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م60.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">فته وافل</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م60.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">وافل بستاشيو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م70.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                                 <div id="subsection-107" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">سوفت درينك</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">مياه</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م10.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">بيبسي</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م25.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">فيروز</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م25.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">شويبس اناناس</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م25.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">شويبس رومان</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م25.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ستينج</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م25.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">ريدبول</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م65.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                                 <div id="subsection-108" class="box-info">
+                                    <div class="head">
+                                       <h3 class="mb-0">ديزرت</h3>
+                                    </div>
+                                    <div class="content grid">
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">مولتن كيك</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م65.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">مولتن ايس</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م70.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">شوكليت كيك</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م50.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">تشيز كيك كلاسيك</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م50.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">تشيز كيك كراميل</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م55.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">تشيز كيك بلوبيري</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م55.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">تشيز كيك نوتيلا</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م55.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">تشيز كيك فراوله</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م55.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">تشيز كيك اوريو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م55.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سينابون كلاسيك</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م50.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سينابون كراميل</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م55.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سينابون نوتيلا</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م55.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سينابون فليفر</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م55.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">فته اوريو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م60.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                       <a href="javascript:;" class="item-offer-horizontal">
+                                          <div class="info">
+                                             <h6 class="title">سوبر فته اوريو</h6>
+                                             <div class="extras">
+                                                <div class="price"> ج.م70.00 </div>
+                                             </div>
+                                          </div>
+                                       </a>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-xl-3">
+                           <div id="cartButtonHolder" class="btn_reserve_fixed">
+                              <a href="#0" id="theCartBottomButton" onclick="openNav()" class="btn_1 gradient full-width">
+                                 ملخص الطلب <!---->
+                              </a>
+                           </div>
+                           <div class="holder-right mb-3">
+                              <div class="info" id="order-summary">
+                                 <div class="box-info bg-white">
+                                    <div class="box-order">
+                                       <div class="head align-center">
+                                          <h6>ملخص الطلب
+                                             <br><small>أقل طلب مسموح  ج.م0.00</small>
+                                          </h6>
+                                       </div>
+                                    </div>
+                                    <div id="cartList" class="content">
+                                       <ul class="clearfix mb-0 w-100"></ul>
+                                    </div>
+                                    <div id="totalPrices">
+                                       <div class="empty-cart">
+                                          <p><small>أضف شيئا إلي طلبك!</small></p>
+                                       </div>
+                                       <!---->
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="info" id="hours">
+                                 <div class="box-info bg-white">
+                                    <div class="box-order">
+                                       <div class="head align-center">
+                                          <h6>مواعيد العمل</h6>
+                                       </div>
+                                    </div>
+                                    <div class="content py-0">
+                                       <div class="schedule">
+                                          <ol class="items w-100">
+                                             <li class="">
+                                                <div class="day">الإثنين </div>
+                                                <div class="hours">09:00 - 05:00 </div>
+                                             </li>
+                                             <li class="">
+                                                <div class="day">الثلاثاء </div>
+                                                <div class="hours">09:00 - 05:00 </div>
+                                             </li>
+                                             <li class="">
+                                                <div class="day">الأربعاء </div>
+                                                <div class="hours">09:00 - 05:00 </div>
+                                             </li>
+                                             <li class=" today ">
+                                                <div class="day d-flex">
+                                                   الخميس
+                                                   <span class="tag d-flex justify-content-center align-items-center">
+                                                      <svg xmlns="http://www.w3.org/2000/svg" fill="#00bc8b" width="8" id="BeBold" viewBox="0 0 14 14">
+                                                         <path id="Arrow-right-3" class="cls-1" d="M11.612,8.385l-5,5.2A1.608,1.608,0,0,1,3.92,12.389V1.611A1.608,1.608,0,0,1,6.607.419l5.005,5.2A1.87,1.87,0,0,1,11.612,8.385Z"></path>
+                                                      </svg>
+                                                   </span>
+                                                </div>
+                                                <div class="hours">09:00 - 05:00 </div>
+                                             </li>
+                                             <li class="">
+                                                <div class="day">الجمعة </div>
+                                                <div class="hours">09:00 - 05:00 </div>
+                                             </li>
+                                             <li class="">
+                                                <div class="day">السبت </div>
+                                                <div class="hours">09:00 - 05:00 </div>
+                                             </li>
+                                             <li class="">
+                                                <div class="day">الأحد </div>
+                                                <div class="hours">09:00 - 05:00 </div>
+                                             </li>
+                                          </ol>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="about-us text-center">
+                                 <h6 class="text-center"><small>تم تطوير بواسطة <a href="tel:+201006095033" target="_blank" rel="noopener noreferrer">Abdelaziz Mohamed</a></small></h6>
+                                 <a target="_blank" class="nav-link" href="tel:+201006095033">أضف متجرك</a>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+      </div>
+      <div id="toTop"></div>
+      <!-- Back to top button --> 
+      <script src="../luxe/jquery.min.js"></script>
+      <script src="../ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+      <script src="../ajax/libs/tiny-slider/2.9.3/min/tiny-slider.js"></script>
+      <script src="../custom/js/select2.js"></script>
+      <script src="../vendor/select2/select2.min.js"></script>
+      <!-- cartFunctions.js and order.js was modified by @aleksiralda using V3.5.0 -->
+      <script src="../luxe/bootstrap.bundle.min.js"></script>
+      <script src="../luxe/cartFunctions.js"></script>
+      <script src="../luxe/order.js"></script>
+      <script src="../custom/js/js.js"></script>
+      <script>
+         var CASHIER_CURRENCY = "EGP";
+         var LOCALE="ar";
+         var IS_POS=false;
+      </script>
+      <!-- Interface from PHP items to JS Array -->
+      <script src="../luxe/LuxeTemplate.js"></script>
+   </body>
+</html>
